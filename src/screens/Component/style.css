@@ -1,0 +1,215 @@
+.component {
+  height: 2731px;
+  width: 2354px;
+}
+
+.component .overlap {
+  height: 2731px;
+  position: relative;
+}
+
+.component .overlap-group {
+  height: 1224px;
+  left: 0;
+  position: absolute;
+  top: 1160px;
+  width: 2354px;
+}
+
+.component .rectangle {
+  background-color: #292929;
+  height: 91px;
+  left: 626px;
+  position: absolute;
+  top: 743px;
+  transform: rotate(-110.8deg);
+  width: 653px;
+}
+
+.component .div {
+  background-color: #292929;
+  height: 120px;
+  left: 967px;
+  position: absolute;
+  top: 206px;
+  width: 422px;
+}
+
+.component .rectangle-2 {
+  background-color: #292929;
+  height: 68px;
+  left: 389px;
+  position: absolute;
+  top: 783px;
+  transform: rotate(-145.47deg);
+  width: 155px;
+}
+
+.component .rectangle-3 {
+  background-color: #292929;
+  height: 67px;
+  left: 435px;
+  position: absolute;
+  top: 319px;
+  transform: rotate(-29.02deg);
+  width: 119px;
+}
+
+.component .rectangle-4 {
+  background-color: #292929;
+  height: 91px;
+  left: 1077px;
+  position: absolute;
+  top: 743px;
+  transform: rotate(-69.2deg);
+  width: 653px;
+}
+
+.component .rectangle-5 {
+  background-color: #292929;
+  height: 68px;
+  left: 1812px;
+  position: absolute;
+  top: 783px;
+  transform: rotate(-34.53deg);
+  width: 155px;
+}
+
+.component .rectangle-6 {
+  background-color: #292929;
+  height: 67px;
+  left: 1802px;
+  position: absolute;
+  top: 319px;
+  transform: rotate(-150.98deg);
+  width: 119px;
+}
+
+.component .ellipse {
+  background-color: #9c9696;
+  border-radius: 258px/275px;
+  height: 550px;
+  left: 488px;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.component .ellipse-2 {
+  background-color: #9c9696;
+  border-radius: 221px/235px;
+  height: 470px;
+  left: 488px;
+  position: absolute;
+  top: 754px;
+  width: 442px;
+}
+
+.component .ellipse-3 {
+  background-color: #9c9696;
+  border-radius: 259px/278px;
+  height: 556px;
+  left: 0;
+  position: absolute;
+  top: 280px;
+  width: 518px;
+}
+
+.component .ellipse-4 {
+  background-color: #9c9696;
+  border-radius: 258px/275px;
+  height: 550px;
+  left: 1350px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 516px;
+}
+
+.component .ellipse-5 {
+  background-color: #9c9696;
+  border-radius: 221px/235px;
+  height: 470px;
+  left: 1424px;
+  position: absolute;
+  top: 754px;
+  transform: rotate(180deg);
+  width: 442px;
+}
+
+.component .ellipse-6 {
+  background-color: #9c9696;
+  border-radius: 259px/278px;
+  height: 556px;
+  left: 1836px;
+  position: absolute;
+  top: 280px;
+  transform: rotate(180deg);
+  width: 518px;
+}
+
+.component .overlap-2 {
+  height: 424px;
+  left: 834px;
+  position: absolute;
+  top: 800px;
+  width: 689px;
+}
+
+.component .rectangle-7 {
+  background-color: #292929;
+  height: 81px;
+  left: -84px;
+  position: absolute;
+  top: 172px;
+  transform: rotate(-63.42deg);
+  width: 434px;
+}
+
+.component .rectangle-8 {
+  background-color: #292929;
+  height: 81px;
+  left: 339px;
+  position: absolute;
+  top: 172px;
+  transform: rotate(-116.58deg);
+  width: 434px;
+}
+
+.component .rectangle-9 {
+  background-color: #292929;
+  height: 67px;
+  left: 562px;
+  position: absolute;
+  top: 1756px;
+  transform: rotate(-81.93deg);
+  width: 281px;
+}
+
+.component .rectangle-10 {
+  background-color: #292929;
+  height: 67px;
+  left: 1514px;
+  position: absolute;
+  top: 1756px;
+  transform: rotate(-98.07deg);
+  width: 281px;
+}
+
+.component .ellipse-7 {
+  background-color: #9c9696;
+  border-radius: 400px/425.5px;
+  height: 851px;
+  left: 777px;
+  position: absolute;
+  top: 0;
+  width: 800px;
+}
+
+.component .img {
+  height: 518px;
+  left: 933px;
+  position: absolute;
+  top: 2213px;
+  width: 489px;
+}
